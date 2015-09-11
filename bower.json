@@ -25,6 +25,7 @@
     "tests"
   ],
   "dependencies": {
+    "angular-animate": "~1.4.5",
     "angular-bootstrap": "~0.13.4",
     "angular-socket-io": "~0.7.0",
     "bootstrap": "~3.3.5",
